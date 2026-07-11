@@ -34,6 +34,7 @@ migrate_working_dir/
 /coverage/
 /tmp/
 /output/apk/*.apk
+/output/*.zip
 
 # Symbolication related
 app.*.symbols
