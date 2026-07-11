@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#f3f1ea"/>
+  <style>
+    .phone{fill:#fff;stroke:#172124;stroke-width:4}.bar{fill:#172124}.accent{fill:#ffd166}.pink{fill:#ef476f}.green{fill:#06a77d}.line{fill:#dedbd2}.txt{font-family:Arial,sans-serif;fill:#172124}.title{font-size:20px;font-weight:700}.small{font-size:11px}.white{fill:#fff}.stroke{fill:none;stroke:#172124;stroke-width:2}
+  </style>
+  <text x="50" y="42" class="txt title">AccordMaster - Wireframes mobiles</text>
+
+  <g transform="translate(50 70)">
+    <rect class="phone" width="330" height="360" rx="18"/><rect class="bar" x="0" y="0" width="330" height="42" rx="15"/>
+    <text x="18" y="27" class="white txt small">ACCORDMASTER</text><text x="18" y="70" class="txt title">Accueil</text>
+    <rect class="bar" x="18" y="84" width="294" height="125" rx="7"/><text x="32" y="108" class="white txt small">ENTRAÎNEMENT HARMONIQUE</text>
+    <g transform="translate(31 130)"><rect class="white" width="38" height="58"/><rect class="white" x="40" width="38" height="58"/><rect class="white" x="80" width="38" height="58"/><rect class="white" x="120" width="38" height="58"/><rect class="white" x="160" width="38" height="58"/><rect class="white" x="200" width="38" height="58"/><rect class="white" x="240" width="38" height="58"/></g>
+    <rect class="green" x="18" y="220" width="140" height="55" rx="6"/><rect class="pink" x="172" y="220" width="140" height="55" rx="6"/>
+    <rect class="line" x="18" y="288" width="294" height="38" rx="5"/><rect class="line" x="18" y="332" width="294" height="18" rx="5"/>
+  </g>
+
+  <g transform="translate(435 70)">
+    <rect class="phone" width="330" height="360" rx="18"/><rect class="bar" width="330" height="42" rx="15"/><text x="18" y="27" class="white txt small">STUDIO</text>
+    <text x="18" y="72" class="txt title">Écoute. Joue. Mémorise.</text><rect class="line" x="18" y="86" width="294" height="34" rx="6"/>
+    <g transform="translate(18 132)"><rect class="pink" width="42" height="35" rx="5"/><rect class="line" x="48" width="42" height="35" rx="5"/><rect class="line" x="96" width="42" height="35" rx="5"/><rect class="line" x="144" width="42" height="35" rx="5"/><rect class="line" x="192" width="42" height="35" rx="5"/></g>
+    <rect class="bar" x="18" y="180" width="294" height="105" rx="7"/><text x="31" y="202" class="white txt small">TONALITÉ ACTIVE</text>
+    <g transform="translate(31 215)"><rect class="accent" width="37" height="55"/><rect class="white" x="39" width="37" height="55"/><rect class="accent" x="78" width="37" height="55"/><rect class="accent" x="117" width="37" height="55"/><rect class="white" x="156" width="37" height="55"/><rect class="accent" x="195" width="37" height="55"/><rect class="accent" x="234" width="37" height="55"/></g>
+    <rect class="line" x="18" y="296" width="294" height="24" rx="5"/><rect class="line" x="18" y="326" width="294" height="24" rx="5"/>
+  </g>
+
+  <g transform="translate(820 70)">
+    <rect class="phone" width="330" height="360" rx="18"/><rect class="bar" width="330" height="42" rx="15"/><text x="18" y="27" class="white txt small">QUIZ</text>
+    <text x="18" y="72" class="txt title">Trouve le bon accord</text><rect class="bar" x="18" y="86" width="294" height="100" rx="7"/>
+    <text x="31" y="110" class="accent txt small">A MAJEUR</text><text x="31" y="140" class="white txt title">Quel est le degré II ?</text>
+    <rect class="line" x="18" y="198" width="294" height="33" rx="5"/><rect class="line" x="18" y="238" width="294" height="33" rx="5"/><rect class="line" x="18" y="278" width="294" height="33" rx="5"/><rect class="green" x="18" y="318" width="294" height="32" rx="5"/>
+  </g>
+
+  <g transform="translate(242 480)">
+    <rect class="phone" width="330" height="360" rx="18"/><rect class="bar" width="330" height="42" rx="15"/><text x="18" y="27" class="white txt small">MÉMOIRE</text>
+    <rect class="accent" x="18" y="58" width="294" height="62" rx="7"/><text x="31" y="86" class="txt title">Reconstruis la tonalité</text>
+    <rect class="bar" x="18" y="132" width="294" height="46" rx="6"/><text x="31" y="160" class="white txt small">C MAJEUR</text>
+    <g transform="translate(18 190)"><rect class="line" width="294" height="25" rx="4"/><rect class="line" y="31" width="294" height="25" rx="4"/><rect class="line" y="62" width="294" height="25" rx="4"/><rect class="line" y="93" width="294" height="25" rx="4"/><rect class="line" y="124" width="294" height="25" rx="4"/></g>
+    <rect class="pink" x="18" y="346" width="294" height="4"/>
+  </g>
+
+  <g transform="translate(627 480)">
+    <rect class="phone" width="330" height="360" rx="18"/><rect class="bar" width="330" height="42" rx="15"/><text x="18" y="27" class="white txt small">PROGRÈS</text>
+    <rect class="bar" x="18" y="58" width="294" height="95" rx="7"/><text x="31" y="86" class="accent txt small">TABLEAU DE BORD</text><text x="31" y="130" class="white txt title">78% DE RÉUSSITE</text>
+    <rect class="green" x="18" y="165" width="91" height="68" rx="6"/><rect class="pink" x="119" y="165" width="91" height="68" rx="6"/><rect class="accent" x="220" y="165" width="92" height="68" rx="6"/>
+    <text x="18" y="264" class="txt title">Tes badges</text><circle class="accent" cx="42" cy="298" r="18"/><rect class="line" x="70" y="282" width="242" height="32" rx="5"/>
+    <circle class="line" cx="42" cy="335" r="18"/><rect class="line" x="70" y="319" width="242" height="32" rx="5"/>
+  </g>
+</svg>
